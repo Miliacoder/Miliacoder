@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Hello, My name is Kamilia Smith, I am from Chicago Illinois 
-WIU Incoming Freshman - Digital Scholars - Volunteer - Inspired Data Science and Journalism 
+Hello, My name is Kamilia Smith, I am from Chicago Illinois\
+WIU Incoming Freshman - Digital Scholars - Volunteer - Inspired Data Science and Journalism\
 Graduting Class of 2026
 
 <!--
