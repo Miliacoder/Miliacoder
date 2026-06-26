@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, My name is Kamilia Smith, I am from Chicago Illinois\
+Hello, My name is Kamilia Smith, I am from Chicago Illinois, Welcome to my GitHub\
 WIU Incoming Freshman - Digital Scholars - Volunteer - Inspired Data Science and Journalism\
 Graduting Class of 2026
 
