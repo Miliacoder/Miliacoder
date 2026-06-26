@@ -4,7 +4,7 @@ Hello, My name is Kamilia Smith, I am from Chicago Illinois, Welcome to my GitHu
 WIU Incoming Freshman - Digital Scholars - Volunteer - Inspired Data Science and Journalism\
 Graduting Class of 2026\
 Hobbies - Walking, Planting and Listing to music\
-Nice to meet you|
+Nice to meet you!
 
 <!--
 **Miliacoder/Miliacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
